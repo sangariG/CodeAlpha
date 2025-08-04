@@ -19,3 +19,11 @@
     <img src= "C:\Users\sanga\OneDrive\Desktop\rose2.jpg"alt="Gallery Image" />
     <img src="C:\Users\sanga\OneDrive\Desktop\t.jpg" alt="Gallery Image" />
   </div>
+ <!-- Lightbox -->
+  <div class="lightbox" id="lightbox">
+    <img id="lightbox-img" />
+  </div>
+
+  <script src="g.js"></script>
+</body>
+</html>
