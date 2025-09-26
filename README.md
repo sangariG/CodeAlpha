@@ -1,0 +1,1 @@
+A collection of basic data structure implementations in C, including arrays, linked lists, stacks, queues, trees, and graphs. This repository is designed for learning and reference, providing clear and efficient code examples to help understand how these data structures work in C.
